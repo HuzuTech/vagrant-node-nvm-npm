@@ -5,6 +5,7 @@ should be useful for testing node apps in a greenfield environment.
 
 To create a box of your own:
 
+- Get [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 - Get [Vagrant](http://http://downloads.vagrantup.com/)
 - Install Chef:  
   ```gem install chef``` (you will need Ruby and ruby-dev/devel)
